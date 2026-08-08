@@ -110,7 +110,6 @@ docs/evolution-report.md   ← 完整迭代研究日志（含调用证据）
 docs/evidence-chain.md     ← 原始调用记录、响应引用、复现方法
 src/patch_python_agent.py  ← Python agent 注入器（SYSTEM 字符串）
 src/patch_shell_agent.sh   ← Shell agent 注入器（SYS 字符串）
-examples/                  ← 已验证的 agent 程序（py + sh）
 ```
 
 图像生产路径：**LLM 写标签 → 应用透传 → NoobAI/本地 API 生成**（推理端无审查）。
