@@ -110,7 +110,6 @@ docs/evolution-report.md   ← full iteration research log with call evidence
 docs/evidence-chain.md     ← raw call records, response quotes, reproduction
 src/patch_python_agent.py  ← injector for Python agent (SYSTEM string)
 src/patch_shell_agent.sh   ← injector for Shell agent (SYS string)
-examples/                  ← verified agent programs (py + sh)
 ```
 
 ## Safety Statement
